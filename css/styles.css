@@ -1,0 +1,25 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-weight:bold;
+  font-size: 250%;
+}
+
+h2 {
+  color: blue;
+  font-style: italic;
+  text-align: center;
+  font-size: 200%
+}
+
+p {
+  font-family: verdana;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 100%
+}
+
+ul {
+  font-size: 20ps:
+  line-height: 30px;
+}
