@@ -3,3 +3,17 @@ h1 {
   font-weight: bold;
   text-align: center
 }
+
+h2 {
+  color: orange;
+  font-weight: bold;
+  text-align: center
+}
+
+
+p {
+  font-family: georgia
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+}
